@@ -1,0 +1,16 @@
+Insert into books(id,title,isbn) values(1, 'The Pragmatic Programmer', 999999);
+Insert into books(id,title,isbn) values(2, 'Pragmatic Thinking and Learning', 999998);
+Insert into books(id,title,isbn) values(3, 'Pragmatic Unit Testing', 999997);
+Insert into books(id,title,isbn) values(4, 'Agile Web Development with Rails', 999996);
+Insert into authors(id,author_name,e_mail) values(1, 'Andrew Hunt', 'andyhunt@pragprogrammers.com');
+Insert into authors(id,author_name,e_mail) values(2, 'Dave Thomas', 'davethomas@pragprogrammers.com');
+Insert into authors(id,author_name,e_mail) values(3, 'Sam Ruby', 'samruby@pragprogrammers.com');
+Insert into authors(id,author_name,e_mail) values(4, 'David Heinemeier Hansson', 'dhh@railsrules.co');
+Insert into book_authors(author_id,book_id) values(1, 1);
+Insert into book_authors(author_id,book_id) values(1, 2);
+Insert into book_authors(author_id,book_id) values(1, 3);
+Insert into book_authors(author_id,book_id) values(2, 1);
+Insert into book_authors(author_id,book_id) values(2, 3);
+Insert into book_authors(author_id,book_id) values(2, 4);
+Insert into book_authors(author_id,book_id) values(3, 4);
+Insert into book_authors(author_id,book_id) values(4, 4);

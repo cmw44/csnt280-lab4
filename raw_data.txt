@@ -1,0 +1,33 @@
+book_id
+title
+authors
+e_mail
+isbn
+1
+The Pragmatic Programmer 
+Andrew Hunt,                      
+Dave Thomas
+andyhunt@pragprogrammers.com, 
+davethomas@pragprogrammers.com
+999999
+2
+Pragmatic Thinking and Learning 
+Andrew Hunt
+andyhunt@pragprogrammers.com 
+999998
+3
+Pragmatic Unit Testing 
+Andrew Hunt,                      
+Dave Thomas
+andyhunt@pragprogrammers.com, 
+davethomas@pragprogrammers.com
+999997
+4
+Agile Web Development with Rails 
+Dave Thomas,                       
+Sam Ruby,                           
+David Heinemeier Hansson
+davethomas@pragprogrammers.com,
+samruby@pragprogrammers.com, 
+dhh@railsrules.co
+999996
